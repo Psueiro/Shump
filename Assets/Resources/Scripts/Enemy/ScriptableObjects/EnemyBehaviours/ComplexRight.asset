@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1effc73e07dd55f42a46c9d7da9c4b10, type: 3}
+  m_Name: ComplexRight
+  m_EditorClassIdentifier: 
+  movementWrappers:
+  - {fileID: 11400000, guid: 61cb5c5cac62fa243810de83ac9daa3c, type: 2}
+  patternWrappers:
+  - {fileID: 11400000, guid: df7520933e5aa6643b9b5c897e90366d, type: 2}
+  - {fileID: 11400000, guid: 9055ca3ce784b1f469202e4d74e22a10, type: 2}
+  - {fileID: 11400000, guid: e479ce313c2e66248a13bcbc058f58b3, type: 2}
+  - {fileID: 11400000, guid: 89a345b08939ec9408564fcdbb10c25d, type: 2}
+  - {fileID: 11400000, guid: eba85c4f5f14bb7468606fdc6962b577, type: 2}
+  changeMovementWrappers: []
